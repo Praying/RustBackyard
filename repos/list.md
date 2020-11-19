@@ -1,0 +1,1 @@
+[酷狗混淆的歌曲文件的解码器](https://github.com/ghtz08/kuguo-kgm-decoder)

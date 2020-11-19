@@ -13,11 +13,11 @@
 
 在每个月的list.md 添加待翻译文章吧! 😀
 
-格式是 year_month [header](link)
+格式是 year_month [header] (link)
 
 Articles are archived by month
 
-zAdd not-translated articles to list.md in each files!😀
+Add not-translated articles to list.md in each files!😀
 
 
 
