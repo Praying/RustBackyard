@@ -3,6 +3,16 @@
 
 相关讨论请在Issues模块讨论交流。
 
+## Issues 列表
+
+- [Rust吐槽](https://github.com/Praying/RustBackyard/issues/14)
+
+- [收集大家的Repo](https://github.com/Praying/RustBackyard/issues/8)
+
+- [Rust都有哪些好的学习资料](https://github.com/Praying/RustBackyard/issues/6)
+
+- [Rust开发IDE讨论](https://github.com/Praying/RustBackyard/issues/4)
+
 ## 等待翻译的文章
 ## Waiting for translation
 
