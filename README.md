@@ -29,11 +29,12 @@ Articles are archived by month
 
 Add not-translated articles to list.md in each files!😀
 
-### 中文翻译指北
+## 中文翻译指北
 
 统一中文文案、排版的相关用法，欢迎阅读。
 [翻译指北](https://github.com/Praying/RustBackyard/TranslatorReadMe.md)
 
+## 谈天说地
 
 - QQ Group:951882729
 
