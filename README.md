@@ -35,8 +35,12 @@ Add not-translated articles to list.md in each files!😀
 [翻译指北](https://github.com/Praying/RustBackyard/TranslatorReadMe.md)
 
 
-QQ Group:951882729
-Telegram: https://t.me/rustforfree 
-Discord:https://discord.gg/dAkv2DJjZ2
-Lark: https://applink.feishu.cn/TeF3WgSQ
-公众号：Rust碎碎念
+- QQ Group:951882729
+
+- Telegram: https://t.me/rustforfree 
+
+- Discord:https://discord.gg/dAkv2DJjZ2
+
+- Lark: https://applink.feishu.cn/TeF3WgSQ
+
+- 公众号：Rust碎碎念
