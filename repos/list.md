@@ -7,3 +7,4 @@
 
 [用纯Rust写PHP扩展的框架](https://github.com/jmjoy/phper)
 
+[rust-guide](https://github.com/VWWL/rust-guide)
